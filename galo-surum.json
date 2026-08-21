@@ -1,0 +1,20 @@
+{
+ "surum": 3,
+ "paylar": {
+  "dil": {
+   "dosya": "galo-dil.dat",
+   "v": 3,
+   "ad": "Turkce dil modeli"
+  },
+  "tip": {
+   "dosya": "galo-tip.json",
+   "v": 1,
+   "ad": "Tip bilgi katmani"
+  },
+  "guncel": {
+   "dosya": "galo-guncel.json",
+   "v": 1,
+   "ad": "Arastirilarak ogrenilen bilgi"
+  }
+ }
+}
